@@ -7,3 +7,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to consulting. When businesses have large amounts of data that needs to be cleaned, sorted, and visualized, an expert in data science can help them.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines separate branches, while rebasing moves a branch's commits to another to create a linear history of commits. 
+
